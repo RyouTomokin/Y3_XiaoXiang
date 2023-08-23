@@ -1,0 +1,221 @@
+{
+    "trigger_dict": {
+        "953225283": {
+            "action": [
+                {
+                    "action_type": "CALL_TRIGGER_FUNC", 
+                    "args_list": [
+                        {
+                            "arg_type": 100177, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100006, 
+                                    "args_list": [], 
+                                    "sub_type": "GET_UNIT_FROM_EVENT"
+                                }, 
+                                {
+                                    "arg_type": 100023, 
+                                    "args_list": [
+                                        10004
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100004, 
+                                    "args_list": [
+                                        10006
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "op_arg": [
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        1
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                null
+                            ], 
+                            "op_arg_enable": [
+                                true, 
+                                false
+                            ], 
+                            "sub_type": "9138ac402e1711ee9e8e00ff686ec771"
+                        }
+                    ], 
+                    "bp": false, 
+                    "call_rt_arg_idxes": [], 
+                    "element_id": 953225283000012, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [
+                                [
+                                    "UNIT_ENTITY", 
+                                    "XiaoXiang"
+                                ]
+                            ], 
+                            "sub_type": 11
+                        }, 
+                        {
+                            "arg_type": 100044, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100023, 
+                            "args_list": [
+                                10004
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 953225283000001, 
+                    "enable": true, 
+                    "event_type": "UNIT_REGION_EVENT"
+                }
+            ], 
+            "group_id": "6PfjAC4TEe6AuAD-aG7Hcd", 
+            "p_trigger_id": null, 
+            "trigger_id": 953225283, 
+            "trigger_name": "\u4f20\u9001\u56de\u573a\u666fA", 
+            "valid": true
+        }, 
+        "1645035585": {
+            "action": [
+                {
+                    "action_type": "CALL_TRIGGER_FUNC", 
+                    "args_list": [
+                        {
+                            "arg_type": 100177, 
+                            "args_list": [
+                                {
+                                    "arg_type": 100006, 
+                                    "args_list": [], 
+                                    "sub_type": "GET_UNIT_FROM_EVENT"
+                                }, 
+                                {
+                                    "arg_type": 100023, 
+                                    "args_list": [
+                                        10003
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100004, 
+                                    "args_list": [
+                                        10005
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "op_arg": [
+                                {
+                                    "arg_type": 100002, 
+                                    "args_list": [
+                                        2
+                                    ], 
+                                    "sub_type": 1
+                                }, 
+                                {
+                                    "arg_type": 100004, 
+                                    "args_list": [
+                                        10007
+                                    ], 
+                                    "sub_type": 1
+                                }
+                            ], 
+                            "op_arg_enable": [
+                                true, 
+                                true
+                            ], 
+                            "sub_type": "9138ac402e1711ee9e8e00ff686ec771"
+                        }
+                    ], 
+                    "bp": false, 
+                    "call_rt_arg_idxes": [], 
+                    "element_id": 1645035585000157, 
+                    "enable": true
+                }
+            ], 
+            "call_enabled": true, 
+            "condition": [], 
+            "enabled": true, 
+            "event": [
+                {
+                    "args_list": [
+                        {
+                            "arg_type": 100006, 
+                            "args_list": [
+                                {
+                                    "__tuple__": true, 
+                                    "items": [
+                                        "UNIT_ENTITY", 
+                                        "XiaoXiang"
+                                    ]
+                                }
+                            ], 
+                            "sub_type": 11
+                        }, 
+                        {
+                            "arg_type": 100044, 
+                            "args_list": [
+                                1
+                            ], 
+                            "sub_type": 1
+                        }, 
+                        {
+                            "arg_type": 100023, 
+                            "args_list": [
+                                10003
+                            ], 
+                            "sub_type": 1
+                        }
+                    ], 
+                    "element_id": 1645035585000002, 
+                    "enable": true, 
+                    "event_type": "UNIT_REGION_EVENT"
+                }
+            ], 
+            "group_id": "RQflAC4KEe6pUgD-aG7HcT", 
+            "p_trigger_id": null, 
+            "trigger_id": 1645035585, 
+            "trigger_name": "\u4f20\u9001\u5230\u573a\u666fA", 
+            "valid": true
+        }
+    }, 
+    "trigger_group_info": {
+        "_trigger_group_": true, 
+        "group": [
+            {
+                "__tuple__": true, 
+                "items": [
+                    1645035585, 
+                    "\u4f20\u9001\u5230\u573a\u666fA"
+                ]
+            }, 
+            {
+                "__tuple__": true, 
+                "items": [
+                    953225283, 
+                    "\u4f20\u9001\u56de\u573a\u666fA"
+                ]
+            }
+        ], 
+        "is_sub_folder": false, 
+        "key": "6PfjAC4TEe6AuAD-aG7Hcd", 
+        "name": "\u4f20\u9001\u6e38\u620f\u573a\u666f"
+    }
+}
