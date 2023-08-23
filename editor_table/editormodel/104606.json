@@ -1,0 +1,37 @@
+{
+    "describe": 1479690183, 
+    "editor_res": false, 
+    "key": 104606, 
+    "map_name": "H69\u8bf8\u795e\u9ec4\u660f3", 
+    "model_id": 280583, 
+    "name": 2016340751, 
+    "offical_tags": {
+        "__tuple__": true, 
+        "items": [
+            "code_Realistic", 
+            "code_Magical", 
+            "code_Middle ages", 
+            "code_Red", 
+            "code_Wooden", 
+            "code_Barrel"
+        ]
+    }, 
+    "pickbound": {
+        "__tuple__": true, 
+        "items": [
+            0.2, 
+            0.56
+        ]
+    }, 
+    "preview_icon": "UP1ModelPreview/104606", 
+    "release_delete": {
+        "__tuple__": true, 
+        "items": []
+    }, 
+    "release_hide": false, 
+    "res_identify": "all", 
+    "select_effect_scale": 0.01, 
+    "socket_info": {}, 
+    "source": "code_Source_Import", 
+    "uid": "editor_model_104606"
+}

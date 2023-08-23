@@ -23,10 +23,22 @@
         "item_key": 134265081, 
         "prop_key": "name"
     }, 
+    "768840522": {
+        "editor_type": "editor_unit", 
+        "index_type": "object_editor", 
+        "item_key": 134218528, 
+        "prop_key": "name"
+    }, 
     "930986323": {
         "editor_type": "editor_unit", 
         "index_type": "object_editor", 
         "item_key": 134231107, 
+        "prop_key": "name"
+    }, 
+    "996149829": {
+        "editor_type": "editor_unit", 
+        "index_type": "object_editor", 
+        "item_key": 134227213, 
         "prop_key": "name"
     }
 }
