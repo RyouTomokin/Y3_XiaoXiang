@@ -61,7 +61,7 @@
 										<ColorCurve>
 											<Nodes count="1" ordered="true">
 												<Element index="0">
-													<Time>0.473684210526</Time>
+													<Time>0.4782736</Time>
 													<Value>(0.5019607843137255, 0.5019607843137255, 0.5019607843137255, 1.0)</Value>
 												</Element>
 											</Nodes>
@@ -83,8 +83,8 @@
 												<Sub />
 												<Entity type="DistributionUniformFloat">
 													<Name />
-													<MinValue>0.98</MinValue>
-													<MaxValue>0.98</MaxValue>
+													<MinValue>1.05</MinValue>
+													<MaxValue>1.05</MaxValue>
 												</Entity>
 											</Root>
 										</SizeDistributionX>
@@ -103,8 +103,8 @@
 												<Sub />
 												<Entity type="DistributionUniformFloat">
 													<Name />
-													<MinValue>1.79</MinValue>
-													<MaxValue>1.79</MaxValue>
+													<MinValue>1.38</MinValue>
+													<MaxValue>1.38</MaxValue>
 												</Entity>
 											</Root>
 										</SizeDistributionZ>
@@ -204,7 +204,7 @@
 											<Textures>
 												<Item key="DiffuseTexture">00000000-0000-0000-0000-000000000000</Item>
 												<Item key="DissipateTexture">926daf69-2a86-40a8-9128-24a94e5210f8</Item>
-												<Item key="MaskTexture">d2a2c862-ed00-42b7-8d34-4da15ff92e22</Item>
+												<Item key="MaskTexture">b5f35f4e-d541-4cf4-b2cc-1a08427a4154</Item>
 											</Textures>
 											<BaseMaterial>00000000-0000-0000-0000-000000000000</BaseMaterial>
 											<InactiveParameters />

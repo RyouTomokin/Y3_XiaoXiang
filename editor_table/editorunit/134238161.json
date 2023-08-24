@@ -3,8 +3,6 @@
     "3": 180.0, 
     "5": 1, 
     "6": 0, 
-    "100": 0.0, 
-    "101": 360.0, 
     "_custom_": true, 
     "_ref_": 134271409, 
     "affect_techs": {
@@ -30,7 +28,7 @@
     "bar_show_name": 0, 
     "bar_show_scale": true, 
     "bar_slot_size": 0, 
-    "base_color_mod": 0, 
+    "base_color_mod": 1, 
     "base_tint_color": [
         15, 
         15, 
@@ -86,7 +84,7 @@
     "defense_mag_grow": 0.0, 
     "defense_phy": 10.0, 
     "defense_phy_grow": 0.0, 
-    "description": -30155913, 
+    "description": -1711184829, 
     "destroy_after_die": true, 
     "die_anim": "die", 
     "disk_shadow_size": 0, 
@@ -142,14 +140,14 @@
     "is_apply_role_color": false, 
     "is_mini_map_show": true, 
     "is_open_Xray": false, 
-    "is_open_disk_shadow": 0, 
+    "is_open_disk_shadow": false, 
     "is_open_outline_pass": false, 
     "is_shop": false, 
-    "is_x_offset": 1, 
-    "is_z_offset": 1, 
+    "is_x_offset": false, 
+    "is_z_offset": false, 
     "keep_dead_body_time": 2.0, 
     "keep_target": true, 
-    "key": 134271409, 
+    "key": 134238161, 
     "kv": {
         "\u69fd\u4f4d": {
             "annotation": "", 
@@ -160,7 +158,7 @@
             "remark": "", 
             "sort": 0, 
             "type": 2, 
-            "value": 1
+            "value": 3
         }, 
         "\u7279\u6548\u7c7b\u578b": {
             "annotation": "", 
@@ -171,7 +169,7 @@
             "remark": "", 
             "sort": 1, 
             "type": 15, 
-            "value": 134242345
+            "value": 134275631
         }
     }, 
     "level": 1, 
@@ -179,9 +177,9 @@
     "max_stock": 5, 
     "mini_map_icon": 100000, 
     "mini_map_icon_scale": 1.0, 
-    "model": 134281476, 
-    "model_height": 0.0, 
-    "model_opacity": 1.0, 
+    "model": 134235982, 
+    "model_height": 0.02, 
+    "model_opacity": 1, 
     "move_channel": 0, 
     "move_limitation": 1, 
     "move_type": 40, 
@@ -191,7 +189,7 @@
     "mp_max_grow": 0.0, 
     "mp_rec": 10, 
     "mp_rec_grow": 2, 
-    "name": -1021057089, 
+    "name": -679811918, 
     "need_preview_billboard": false, 
     "ori_bits": 88, 
     "ori_speed": 0.0, 
@@ -293,9 +291,9 @@
         ]
     }, 
     "type": 2, 
-    "uid": "134271409", 
+    "uid": "134238161", 
     "use_base_tint_color": true, 
-    "use_fresnel": 0, 
+    "use_fresnel": false, 
     "use_simple_mini_map_icon": false, 
     "vampire_mag": 0.0, 
     "vampire_mag_grow": 0.0, 

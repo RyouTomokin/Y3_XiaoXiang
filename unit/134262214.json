@@ -116,7 +116,7 @@
                                 {
                                     "arg_type": 100002, 
                                     "args_list": [
-                                        1
+                                        2
                                     ], 
                                     "sub_type": 1
                                 }
@@ -126,7 +126,7 @@
                         {
                             "arg_type": 100004, 
                             "args_list": [
-                                10008
+                                10009
                             ], 
                             "sub_type": 1
                         }
@@ -147,7 +147,7 @@
                     "event_type": "UNIT_BORN"
                 }
             ], 
-            "group_id": 134271409, 
+            "group_id": 134262214, 
             "p_trigger_id": null, 
             "trigger_id": 742252545, 
             "trigger_name": "\u65b0\u5efa\u89e6\u53d1\u5668", 
@@ -163,8 +163,8 @@
                     "\u65b0\u5efa\u89e6\u53d1\u5668"
                 ]
             ], 
-            "key": 134271409, 
-            "name": "134271409"
+            "key": 134262214, 
+            "name": "134262214"
         }
     ], 
     "trigger_version": "1.2", 
